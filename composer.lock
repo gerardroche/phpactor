@@ -1215,12 +1215,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/JetBrains/phpstorm-stubs.git",
-                "reference": "8ea3bf44722f76a3a32c89fe769b6144c253f8a6"
+                "reference": "fd75669eafb8bf954c6b2c0423c0752919644c0d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/JetBrains/phpstorm-stubs/zipball/8ea3bf44722f76a3a32c89fe769b6144c253f8a6",
-                "reference": "8ea3bf44722f76a3a32c89fe769b6144c253f8a6",
+                "url": "https://api.github.com/repos/JetBrains/phpstorm-stubs/zipball/fd75669eafb8bf954c6b2c0423c0752919644c0d",
+                "reference": "fd75669eafb8bf954c6b2c0423c0752919644c0d",
                 "shasum": ""
             },
             "require-dev": {
@@ -1255,7 +1255,7 @@
             "support": {
                 "source": "https://github.com/JetBrains/phpstorm-stubs/tree/master"
             },
-            "time": "2024-01-17T10:11:03+00:00"
+            "time": "2024-01-24T18:39:21+00:00"
         },
         {
             "name": "kelunik/certificate",
